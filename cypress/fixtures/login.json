@@ -1,0 +1,10 @@
+{
+    "loginCorrect": {
+    "email": "vinicius.oliveira@teste.com",
+    "password": "Teste1234"
+  },
+  "loginIncorrect": {
+    "email": "vinicius.oliveira@teste.com",
+    "password": "Teste12345"
+  }
+}
