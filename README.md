@@ -6,6 +6,8 @@ O foco principal foi aplicar conceitos de **QA Automation**, boas práticas de c
 
 🔗 **Site testado:** https://automationexercise.com/
 
+🔗 **Video da automação:** https://automationexercise.com/
+
 ---
 
 ## 🎯 Objetivo do Projeto
@@ -17,6 +19,11 @@ O foco principal foi aplicar conceitos de **QA Automation**, boas práticas de c
 - Validar fluxos críticos de usuário (cadastro, login, carrinho, checkout)
 
 ---
+
+## 🖼️ Evidências dos Testes
+
+![Regressão finalizada](/cypress/arq/evidencia.png)
+
 
 ## 🛠️ Tecnologias Utilizadas
 

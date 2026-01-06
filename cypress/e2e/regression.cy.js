@@ -170,7 +170,7 @@ describe("Regressão Automation Exercise", () => {
     verifyAllProduct.removeProductFromCart();
   });
 
-  it.only("Visualizar produtos da marca", () => {
+  it("Visualizar produtos da marca", () => {
     cy.visit("/");
     verifyAllProduct.clickLinkProducts();
     navegator.clickFirstLinkBrand();
