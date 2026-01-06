@@ -31,7 +31,7 @@ O foco principal foi aplicar conceitos de **QA Automation**, boas práticas de c
 ---
 
 ## 📂 Estrutura do Projeto
-
+```
 📁 cypress
  ├── 📁 e2e
  │   └── regression.cy.js
@@ -52,6 +52,7 @@ O foco principal foi aplicar conceitos de **QA Automation**, boas práticas de c
  │   └── e2e.js
  │
  └── cypress.config.js
+```
 
 ## 📂 Cenários de testes
 
