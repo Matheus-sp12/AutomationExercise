@@ -1,4 +1,4 @@
-# 🧪 Regression Test Automation – Automation Exercise
+# 🧪 Regression Automation Exercise
 
 Este projeto foi desenvolvido com o objetivo de **estudo e prática de testes automatizados de regressão**, utilizando um **e-commerce real de testes** disponibilizado pelo site **Automation Exercise**.
 
@@ -32,19 +32,28 @@ O foco principal foi aplicar conceitos de **QA Automation**, boas práticas de c
 
 ## 📂 Estrutura do Projeto
 
-cypress/
-├── e2e/
-│ └── regression.cy.js
-├── pages/
-│ ├── userRegistration.js
-│ ├── correctLogin.js
-│ ├── verifyAllProduct.js
-│ ├── payment.js
-│ ├── contactUs.js
-│ └── navigator.js
-├── fixtures/
-│ └── login.json
-└── support/
+📁 cypress
+ ├── 📁 e2e
+ │   └── regression.cy.js
+ │
+ ├── 📁 pages
+ │   ├── userRegistration.js
+ │   ├── correctLogin.js
+ │   ├── verifyAllProduct.js
+ │   ├── payment.js
+ │   ├── contactUs.js
+ │   └── navigator.js
+ │
+ ├── 📁 fixtures
+ │   └── login.json
+ │
+ ├── 📁 support
+ │   ├── commands.js
+ │   └── e2e.js
+ │
+ └── cypress.config.js
+
+## 📂 Cenários de testes
 
 
 1. Cadastrar usuário  
