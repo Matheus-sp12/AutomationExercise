@@ -1,4 +1,4 @@
-name: Aprendendo actions
+name: Aprendendo actionss
 on: [push]
 jobs:
   cypress-run:
